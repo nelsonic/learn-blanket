@@ -16,10 +16,15 @@ with testing browser code.
 Blanket.js has a *stated aim* of working in the browser and that's what we
 are going to focus on today.
 
+> please see my QUnit Tutorial: https://github.com/nelsonic/learn-qunit
+> where I have added a section for Blanket.js Test Coverage
+
 ### Useful Links
 
 - Website: http://blanketjs.org/
 - GitHub: https://github.com/alex-seville/blanket
+
+### Other Tutorials
 
 - Tutorial: http://dailyjs.com/2012/11/23/blanket-xsduration-attr/
 - With mocha: https://nicolas.perriault.net/code/2013/get-your-frontend-javascript-code-covered/
